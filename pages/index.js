@@ -25,14 +25,12 @@ function Home() {
           color: "#ffffff",
         }}
       >
-        Oi, meu amor.  
-        Só para te contar que fiz oficialmente meu primeiro deploy.  
-        Então, oficialmente, agora tenho um pedacinho da internet.
-
-        <br /><br />
-
-        Mas minha jornada não importa se você não estiver no meio dela.  
-        Então, se você me ama, quero que você dê um sorriso lindo para mim 😁.
+        Oi, meu amor. Só para te contar que fiz oficialmente meu primeiro
+        deploy. Então, oficialmente, agora tenho um pedacinho da internet.
+        <br />
+        <br />
+        Mas minha jornada não importa se você não estiver no meio dela. Então,
+        se você me ama, quero que você dê um sorriso lindo para mim 😁.
       </h1>
     </div>
   );
